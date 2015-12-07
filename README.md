@@ -1,6 +1,6 @@
 # poemify
 
-Let God (randomness) partition your prose! Inspired by [this NYTimes article](http://opinionator.blogs.nytimes.com/2012/12/02/philosophy-and-the-poetic-imagination/?_r=0) via [@AveryKatko](twitter.com/averykatko).
+Inspired by [this NYTimes article](http://opinionator.blogs.nytimes.com/2012/12/02/philosophy-and-the-poetic-imagination/?_r=0) via [@AveryKatko](twitter.com/averykatko).
 
 ```
 ghc poemify.hs
